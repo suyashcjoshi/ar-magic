@@ -1,6 +1,6 @@
 # ar-magic
 
-#### AR Magic Trick made during Gray Area XR Half Day Hackathon
+#### AR Magic Trick made during Gray Area XR Half Day Hackathon (June 2022)
 
 ## Secret Ingredients:
 
